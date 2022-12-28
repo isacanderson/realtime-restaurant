@@ -1,0 +1,18 @@
+[.] Crear estructura de directorio HECHO
+[.] Cree un proyecto NPM e instale todas las dependencias HECHO
+	- Dependencias
+		- express
+		- ejs express-ejs-layouts
+	- Dev dependencias
+		- nodemon
+[.] Crear servidor Express - Crear un archivo server.js
+[.] Crear página de inicio usando Html y Css
+	- incluir tailwind css
+[.] Crear página de carrito
+	- sección de resumen del pedido
+	- sección de carrito vacío
+[.] Crear controlador de Orden y vincularlo en server.js
+[.] Crear vista de Ordenes con tabla para cliente y administrador
+con estatus
+[.] Crear una sola página de Ordenes con estado
+[.] Crear página Login con ruta
